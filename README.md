@@ -96,7 +96,8 @@ pio device monitor -b 9600
 
 ##  Author
 
-*Munikoti Tanya
-*Ketan Kishor Sarda
+* Munikoti Tanya
+* Ketan Kishor Sarda
+
 ---
 
